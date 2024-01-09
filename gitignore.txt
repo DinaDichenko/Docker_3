@@ -8,7 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-my-web-app/.venv/
+my-web-app/.venv/*
 my-web-app/.rqirements.txt
 build/
 develop-eggs/
