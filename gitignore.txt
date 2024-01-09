@@ -8,8 +8,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-.venv/
-.rqirements.txt
+my-web-app/.venv/
+my-web-app/.rqirements.txt
 build/
 develop-eggs/
 dist/
